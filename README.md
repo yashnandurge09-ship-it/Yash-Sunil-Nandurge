@@ -46,5 +46,6 @@ I am an **Information Technology Engineer** passionate about Full-Stack Developm
 ---
 
 ### 📫 Let's Connect!
+*   🌐 **Portfolio:** [yashnandurge](https://linkedin.com/in/yashnandurge)[cite: 1]
 *   💼 **LinkedIn:** [yashnandurge](https://linkedin.com/in/yashnandurge)[cite: 1]
 *   📧 **Email:** yashnandurge09@gmail.com[cite: 1]
