@@ -1,6 +1,6 @@
 # Hi there, I'm Yash Sunil Nandurge! 👋
 
-I am an aspiring **Information Technology Engineer** passionate about bridging the gap between data-driven intelligence and software development. From training machine learning models to building interactive web applications and hardware-software integrations, I love turning complex logic into functional code.
+I am an **Information Technology Engineer** passionate about Full-Stack Development and building efficient, scalable, and user-friendly web applications. I enjoy turning ideas and complex requirements into functional, responsive, and reliable solutions using modern web technologies. I am continuously improving my skills in frontend and backend development while gaining hands-on experience in developing real-world applications.
 
 ---
 
@@ -8,10 +8,12 @@ I am an aspiring **Information Technology Engineer** passionate about bridging t
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, Java, C, SQL |
-| **Data Science & ML** | NumPy, Pandas, Scikit-learn, Seaborn, Supervised Learning (Classification & Regression) |
-| **Data Tools** | MySQL, Power BI |
-| **Developer Tools** | Git, GitHub, Operating Systems |
+| **Languages** | C, C++, Python, Java, JavaScript |
+| **Web Technologies** | HTML, CSS, React.js |
+| **Database** | MySQL, SQL |
+| **Tools** | Excel, Power BI, GitHub |
+| **Libraries & Frameworks** | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn |
+| **Core Concepts** | DBMS, Computer Network, Operating Systems, OOPs |
 
 ---
 
@@ -19,12 +21,14 @@ I am an aspiring **Information Technology Engineer** passionate about bridging t
 
 *   **Real Estate Chatbot** 🤖
     *   An AI-powered chatbot that processes conversational user input and uses machine learning classification/filtering to recommend the best matching properties.
-*   **Brain Tumor Detector** 🧠
-    *   A deep learning and computer vision web application that analyzes MRI images and medical reports to assist in early diagnosis.
 *   **Delivery Partner Web App** 📦
     *   A reliable Java-based web platform designed for fast, real-time order tracking and partner-to-customer logistics management.
 *   **IoT Air Mouse** 🖱️
     *   An innovative hardware-software integration project using Python to translate hand gestures into real-time cursor control.
+*   **SparesPulse** 🖱️
+    *  Developing a predictive inventory system to manage automotive spare parts and optimize stock decisions.
+    *  Implementing VED classification and demand forecasting to support inventory and reorder planning.
+    *  Designing and developing a structured PostgreSQL database for storage and management of spare-parts, inventory, and transaction data.
 
 ---
 
